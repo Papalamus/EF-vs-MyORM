@@ -1,0 +1,15 @@
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\obj\Debug\EF vs MicroOrm.csprojResolveAssemblyReference.cache
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EF vs MicroOrm.pdb
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EntityFramework.dll
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\MyOrmLib.dll
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EntityFramework.xml
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\MyOrmLib.pdb
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\obj\Debug\EF vs MicroOrm.pdb
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EF vs MicroOrm.exe.config
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\EF vs MicroOrm.exe
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\obj\Debug\EF vs MicroOrm.exe
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\MyOrmBase.sdf
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\nunit.framework.dll
+C:\Для дела\Проекты\epam_training\Training\EF vs MicroOrm\EF vs MicroOrm\EF vs MicroOrm\bin\Debug\nunit.framework.xml
